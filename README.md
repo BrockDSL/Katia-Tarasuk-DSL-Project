@@ -6,7 +6,7 @@
 ![Binary_Tree](https://www.geeksforgeeks.org/wp-content/uploads/binary-tree-to-DLL.png)
  
 ## Introduction
-Using Python, I will create a visual representation of the algorithms that are used to create a specific data structure, trees.
+Using Python, I will create a visual representation of the algorithms that are used to create a specific data structure, trees. To read more about trees, please visit: <http://www.cs.cmu.edu/~clo/www/CMU/DataStructures/Lessons/lesson4_1.htm>
 
 
 ### Project Process
