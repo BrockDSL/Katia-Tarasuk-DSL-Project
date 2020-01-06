@@ -9,7 +9,14 @@
 
 
 ### Project Process
-
+1) Data Preparation
+ a) How to import dataframe
+ b) Viewing information in dataframe
+ c) Editing dataframe
+ d) Exporting to csv
+ e) Splitting dataframe and exporting the split pieces
+2) Basic Graph
+3) Final Graph
 
 
 ### Hopeful Conclusion
