@@ -5,7 +5,9 @@
 ![Cat Photo Metadata](https://124135-361502-raikfcquaxqncofqfm.stackpathdns.com/asset/img/banners/kb/data-glossary/metadata.png)
  
 ## Introduction
-Collection Builder makes exhibits with metadata support. It is very similar to Omeka in that it creates exhibits surrounding metadata, however if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of many objects bound together by a csv file with limited metadata, but a great deal of connections between the objects.
+Collection Builder is a digital tool that creates exhibits with metadata support through Github. 
+
+It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of many objects bound together by a csv file with limited metadata, but a great deal of connections between the objects.
 
 
 ### Project Process
@@ -47,5 +49,5 @@ Collection Builder makes exhibits with metadata support. It is very similar to O
 
 9) Continued to edit theme/csv files until the website fit specifications 
 
-### Hopeful Conclusion
-I will have determined how best to use Collection Builder in the DSL.
+### Conclusion
+Collection Builder is a very easy-to-use and intuitive tool. It allows for visualization of the connections between objects within a collection, such as location and time period. Furthermore, all that it requires from the user is a free to creat Github account.
