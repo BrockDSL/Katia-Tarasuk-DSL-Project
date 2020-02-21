@@ -17,17 +17,17 @@ Collection Builder makes exhibits with metadata support. It is very similar to O
 
 3) Imported the CB repository 
 
- a) Find repository at https://github.com/CollectionBuilder/collectionbuilder-gh 
+    a) Find repository at https://github.com/CollectionBuilder/collectionbuilder-gh 
 
- b) Click on 'Clone or download' 
+    b) Click on 'Clone or download' 
 
- c) Click 'Clone with HTTPS' copy to clipboard icon 
+    c) Click 'Clone with HTTPS' copy to clipboard icon 
 
- d) Under the + sign on the top right corner of the screen, press 'Import repository' 
+    d) Under the + sign on the top right corner of the screen, press 'Import repository' 
 
- e) Paste URL into 'Your old repository's clone URL' 
+    e) Paste URL into 'Your old repository's clone URL' 
 
- f) Name, then begin import 
+    f) Name, then begin import 
 
 4) Uploaded the pictures to the Objects directory 
 
@@ -35,13 +35,13 @@ Collection Builder makes exhibits with metadata support. It is very similar to O
 
 6) Went back to the root directory and found _config.yml file 
 
- a) Edited the file according to the specifications in the file 
+    a) Edited the file according to the specifications in the file 
 
 7) Navigated to the _data directory from the root branch and opened theme.yml 
 
- a) Worked through file and edited according to specifications
+    a) Worked through file and edited according to specifications
 
- Note: be sure to edit the name beside the 'metadata' tag to the name of your cs file that contains your metadata 
+    Note: be sure to edit the name beside the 'metadata' tag to the name of your cs file that contains your metadata 
 
 8) Published digital collection through master branch 
 
