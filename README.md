@@ -7,7 +7,7 @@
 ## Introduction
 Collection Builder is a digital tool that creates exhibits with metadata support through Github. 
 
-It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of many objects bound together by a csv file with limited metadata, but allows for visualization of connections between the objects.
+It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of more objects bound together by a csv file with limited metadata, but allows for visualization of connections between the objects.
 
 Collection Builder Test: https://kat-a-t.github.io/Brock_DSL_CollectionBuilder/
 
@@ -16,7 +16,7 @@ Collection Builder Test: https://kat-a-t.github.io/Brock_DSL_CollectionBuilder/
 
 2) Applied information gained from the xml file to the metadata template provided for CB (https://docs.google.com/spreadsheets/d/14iWUEoAJ6T9WDqlPnIHRN7M8-YgmMV4_bjFPVuSZ0yk/edit?usp=sharing) 
 
- Note: Can automate process through coding 
+    Note: Can automate process through coding 
 
 3) Imported the CB repository 
 
