@@ -7,8 +7,9 @@
 ## Introduction
 Collection Builder is a digital tool that creates exhibits with metadata support through Github. 
 
-It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of many objects bound together by a csv file with limited metadata, but a great deal of connections between the objects.
+It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of many objects bound together by a csv file with limited metadata, but allows for visualization of connections between the objects.
 
+Collection Builder Test: https://kat-a-t.github.io/Brock_DSL_CollectionBuilder/
 
 ### Project Process
 1) Found a collection with multiple photographs and downloaded necessary contents (jpeg images and xml file relating to information about the collection) 
@@ -43,7 +44,7 @@ It is very similar to Omeka S in that it creates exhibits surrounding metadata. 
 
     a) Worked through file and edited according to specifications
 
-    Note: be sure to edit the name beside the 'metadata' tag to the name of your cs file that contains your metadata 
+    Note: be sure to edit the name beside the 'metadata' tag to the name of your csv file that contains your metadata 
 
 8) Published digital collection through master branch 
 
