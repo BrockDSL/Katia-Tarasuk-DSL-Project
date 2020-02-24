@@ -12,7 +12,7 @@ It is very similar to Omeka S in that it creates exhibits surrounding metadata. 
 Collection Builder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_CollectionBuilder/
 
 ### Project Process
-1) Found a collection with multiple photographs and downloaded necessary contents (jpeg images and xml file relating to information about the collection) 
+1) Found a collection with multiple photographs and downloaded necessary contents (jpeg images and xml file containing information (metadata) about the collection) 
 
 2) Applied information gained from the xml file to the metadata template provided for CB (https://docs.google.com/spreadsheets/d/14iWUEoAJ6T9WDqlPnIHRN7M8-YgmMV4_bjFPVuSZ0yk/edit?usp=sharing) 
 
@@ -50,5 +50,5 @@ Collection Builder Test for the Brock DSL: https://kat-a-t.github.io/Brock_DSL_C
 
 9) Continued to edit theme/csv files until the website fit specifications 
 
-### Conclusion
+## Conclusion
 Collection Builder is a very easy-to-use and intuitive tool. It allows for visualization of the connections between objects within a collection, such as location and time period. Furthermore, all that it requires from the user is a free to creat Github account.
