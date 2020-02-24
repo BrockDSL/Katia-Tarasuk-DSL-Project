@@ -5,7 +5,7 @@
 ![Cat Photo Metadata](https://124135-361502-raikfcquaxqncofqfm.stackpathdns.com/asset/img/banners/kb/data-glossary/metadata.png)
  
 ## Introduction
-Collection Builder is a lightweight digital tool that creates exhibits with metadata support through Github. It was created and is maintained by librarians from the University of Idaho to aid librarians and others in visualizing and browsing through metadata rich collections.
+Collection Builder is a lightweight digital tool that creates exhibits with metadata support through Github. It was created and is maintained by librarians from the University of Idaho to aid librarians and others in visualizing metadata and browsing through metadata rich collections.
 
 It is very similar to Omeka S in that it creates exhibits surrounding metadata. However if one could say that Omeka S runs along a dimension of few objects with a great deal of metadata, then one could also say that Collection Builder runs along a separate dimension of more objects bound together by a csv file with metadata, and allows for visualization of connections between the objects.
 
